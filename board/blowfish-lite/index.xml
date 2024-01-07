@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blowfish Lite on NEU SASE</title>
+    <link>https://northeasternsase.github.io/board/blowfish-lite/</link>
+    <description>Recent content in Blowfish Lite on NEU SASE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Northeastern SASE</copyright>
+    <lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://northeasternsase.github.io/board/blowfish-lite/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
