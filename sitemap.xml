@@ -15,90 +15,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://northeasternsase.github.io/about/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://northeasternsase.github.io/authors/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/tags/blowfish/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/categories/blowfish/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://northeasternsase.github.io/categories/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/tags/hugo/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/authors/nunocoracao/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/categories/open-source/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://northeasternsase.github.io/contact/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/tags/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/tags/tutorial/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://northeasternsase.github.io/board/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/contact/template/</loc>
-    <lastmod>1987-12-22T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/tags/template/</loc>
-    <lastmod>1987-12-22T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/events/untitled-folder/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://northeasternsase.github.io/about/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -109,6 +46,11 @@
   </url>
   <url>
     <loc>https://northeasternsase.github.io/sponsors/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://northeasternsase.github.io/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

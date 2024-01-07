@@ -30,12 +30,12 @@
     
     <item>
       <title>GM#6 Polar Express</title>
-      <link>https://northeasternsase.github.io/events/gm#6-polar-express/</link>
+      <link>https://northeasternsase.github.io/events/gm6/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://northeasternsase.github.io/events/gm#6-polar-express/</guid>
+      <guid>https://northeasternsase.github.io/events/gm6/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm#6-polar-express/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm6/featured.jpeg" />
     </item>
     
     <item>
@@ -70,12 +70,12 @@
     
     <item>
       <title>GM#5: Snacks and Crafts</title>
-      <link>https://northeasternsase.github.io/events/gm#5-snacks-and-crafts/</link>
+      <link>https://northeasternsase.github.io/events/gm5/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://northeasternsase.github.io/events/gm#5-snacks-and-crafts/</guid>
+      <guid>https://northeasternsase.github.io/events/gm5/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm#5-snacks-and-crafts/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm5/featured.jpeg" />
     </item>
     
     <item>
@@ -100,12 +100,12 @@
     
     <item>
       <title>GM#4 SASE x SWE Murder Mystery</title>
-      <link>https://northeasternsase.github.io/events/gm#4-sase-x-swe-murder-mystery/</link>
+      <link>https://northeasternsase.github.io/events/gm4/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://northeasternsase.github.io/events/gm#4-sase-x-swe-murder-mystery/</guid>
+      <guid>https://northeasternsase.github.io/events/gm4/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm#4-sase-x-swe-murder-mystery/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm4/featured.jpeg" />
     </item>
     
     <item>
@@ -169,23 +169,13 @@
     </item>
     
     <item>
-      <title>Build your homepage using Blowfish and Hugo</title>
-      <link>https://northeasternsase.github.io/contact/202310-blowfish-tutorial/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://northeasternsase.github.io/contact/202310-blowfish-tutorial/</guid>
-      <description>Just one year ago, I created Blowfish, a Hugo theme crafted to build my unique vision for my personal homepage. I also decided to make it an open-source project. Fast-forward to today, and Blowfish has transformed into a thriving open-source project with over 600 stars on GitHub and a user base of hundreds. In this tutorial, I’ll show you how to get started and have your website running in a couple of minutes.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/contact/202310-blowfish-tutorial/featured.jpg" />
-    </item>
-    
-    <item>
       <title>GM#3: Resume Review</title>
-      <link>https://northeasternsase.github.io/events/gm#3-resume-review/</link>
+      <link>https://northeasternsase.github.io/events/gm3/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://northeasternsase.github.io/events/gm#3-resume-review/</guid>
+      <guid>https://northeasternsase.github.io/events/gm3/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm#3-resume-review/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm3/featured.jpeg" />
     </item>
     
     <item>
@@ -329,35 +319,13 @@
     </item>
     
     <item>
-      <title>Recipe Template</title>
-      <link>https://northeasternsase.github.io/contact/template/</link>
-      <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
-      
-      <guid>https://northeasternsase.github.io/contact/template/</guid>
-      <description>Thank you for wanting to contribute to Blowfish&amp;rsquo;s community.
-How to start? # This is a template article that will explain how to create a new article for Blowfish&amp;rsquo;s guide section.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/contact/template/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>-</title>
-      <link>https://northeasternsase.github.io/events/untitled-folder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://northeasternsase.github.io/events/untitled-folder/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/untitled-folder/featured.jpeg" />
-    </item>
-    
-    <item>
       <title>About Us</title>
       <link>https://northeasternsase.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://northeasternsase.github.io/about/</guid>
-      <description>What is SASE? # The Society of Asian Scientists and Engineers (SASE) was founded in November 2007 to help Asian heritage scientific and engineering professionals achieve their full potential.
-The mission of SASE is to (1) prepare Asian heritage scientists and engineers for success in the global business world (2) celebrate diversity on campuses and in the workplace and (3) provide opportunities for members to make contributions to their local communities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/about/featured.png" />
+      <description>The Mission of SASE # The Society of Asian Scientists and Engineers (SASE) was founded in November 2007 to help Asian heritage scientific and engineering professionals achieve their full potential.</description>
+      
     </item>
     
   </channel>

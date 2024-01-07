@@ -30,12 +30,12 @@
     
     <item>
       <title>GM#6 Polar Express</title>
-      <link>https://northeasternsase.github.io/events/gm#6-polar-express/</link>
+      <link>https://northeasternsase.github.io/events/gm6/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://northeasternsase.github.io/events/gm#6-polar-express/</guid>
+      <guid>https://northeasternsase.github.io/events/gm6/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm#6-polar-express/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm6/featured.jpeg" />
     </item>
     
     <item>
@@ -70,12 +70,12 @@
     
     <item>
       <title>GM#5: Snacks and Crafts</title>
-      <link>https://northeasternsase.github.io/events/gm#5-snacks-and-crafts/</link>
+      <link>https://northeasternsase.github.io/events/gm5/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://northeasternsase.github.io/events/gm#5-snacks-and-crafts/</guid>
+      <guid>https://northeasternsase.github.io/events/gm5/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm#5-snacks-and-crafts/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm5/featured.jpeg" />
     </item>
     
     <item>
@@ -100,12 +100,12 @@
     
     <item>
       <title>GM#4 SASE x SWE Murder Mystery</title>
-      <link>https://northeasternsase.github.io/events/gm#4-sase-x-swe-murder-mystery/</link>
+      <link>https://northeasternsase.github.io/events/gm4/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://northeasternsase.github.io/events/gm#4-sase-x-swe-murder-mystery/</guid>
+      <guid>https://northeasternsase.github.io/events/gm4/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm#4-sase-x-swe-murder-mystery/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm4/featured.jpeg" />
     </item>
     
     <item>
@@ -170,12 +170,12 @@
     
     <item>
       <title>GM#3: Resume Review</title>
-      <link>https://northeasternsase.github.io/events/gm#3-resume-review/</link>
+      <link>https://northeasternsase.github.io/events/gm3/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://northeasternsase.github.io/events/gm#3-resume-review/</guid>
+      <guid>https://northeasternsase.github.io/events/gm3/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm#3-resume-review/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/gm3/featured.jpeg" />
     </item>
     
     <item>
@@ -316,16 +316,6 @@
       <guid>https://northeasternsase.github.io/events/aapi/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/aapi/featured.png" />
-    </item>
-    
-    <item>
-      <title>-</title>
-      <link>https://northeasternsase.github.io/events/untitled-folder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://northeasternsase.github.io/events/untitled-folder/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/untitled-folder/featured.jpeg" />
     </item>
     
   </channel>
