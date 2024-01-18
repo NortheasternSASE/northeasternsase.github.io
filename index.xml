@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Northeastern SASE</copyright>
-    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://northeasternsase.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://northeasternsase.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Resume Database</title>
+      <link>https://northeasternsase.github.io/events/s-ebo-reintroduction-copy/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://northeasternsase.github.io/events/s-ebo-reintroduction-copy/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/s-ebo-reintroduction-copy/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Spring E-board Reintroduction</title>
+      <link>https://northeasternsase.github.io/events/s-ebo-reintroduction/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://northeasternsase.github.io/events/s-ebo-reintroduction/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/s-ebo-reintroduction/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Spring GM#1: Bag Some Boba</title>
+      <link>https://northeasternsase.github.io/events/sgm1/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://northeasternsase.github.io/events/sgm1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://northeasternsase.github.io/events/sgm1/featured.jpeg" />
+    </item>
+    
     <item>
       <title>SASE Happy Holidays</title>
       <link>https://northeasternsase.github.io/events/sase-happy-holidays/</link>
