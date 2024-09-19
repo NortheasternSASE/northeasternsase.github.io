@@ -1,0 +1,3 @@
+[submodule "northeasternsase.github.io"]
+	path = northeasternsase.github.io
+	url = git@github.com:NortheasternSASE/northeasternsase.github.io.git
